@@ -1,2 +1,3 @@
 # Momentum-JS
-My first todo list app with JS
+personal dashboard. Featuring to-do lists, weather, daily photos, and encouraging quotes.
+I learned it from the lecture. from https://nomadcoders.co/javascript-for-beginners/lobby
